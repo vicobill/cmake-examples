@@ -1,0 +1,3 @@
+[submodule "cmake-with-nasm"]
+	path = cmake-with-nasm
+	url = https://github.com/vicobill/cmake-examples-cmake-with-nasm.git
